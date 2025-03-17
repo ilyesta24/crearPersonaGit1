@@ -3,8 +3,8 @@ package paquete2;
 public class estudiante extends Persona  {
 private  String matricula;
 
-public estudiante(String matricula) {
-	super(matricula );
+public estudiante(String matricula, String nombre , int edad) {
+	super(nombre, edad);
 	this.matricula = matricula;
 }
 
