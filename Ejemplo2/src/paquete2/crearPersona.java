@@ -21,6 +21,9 @@ public class crearPersona {
 		estudiante estudiante2 = new estudiante("Pedro","B5678",18);
 		estudiante2.mostrarInformacion();
 		
+		estudiante estudiante3 = new estudiante("Lola","D4321",19);
+		estudiante3.mostrarInformacion();
+		
 	System.out.println("--------------Fin------------");
 	}
 
