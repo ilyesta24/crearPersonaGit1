@@ -16,7 +16,7 @@ public void setMatricula(String matricula) {
 	this.matricula = matricula;
 }
 @Override
-public void mostrarInfromacion () {
+public void mostrarInformacion () {
 	System.out.println("Matricula "+ matricula );
 	
 }
